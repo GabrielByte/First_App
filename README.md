@@ -1,5 +1,5 @@
 # First_App
-Dice roll App
+My first app in Kotlin Dice roll App
 
 ## Screenshot
 
